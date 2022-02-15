@@ -1,6 +1,4 @@
 {
-  "TODO_beta_message": "This game version is a beta development build. It may contains bug and does not reflect final content.",
-  
   "sandbox": "Песочница",
   "challenges": "Режим испытаний",
   "leaderboard": "таблица лидеров",
@@ -9,8 +7,6 @@
   "quit_game": "Выйти",
 
   "loading": "Загрузка ...",
-
-  "TODO_find_us_on": "Find us on ...",
 
   "sound": "Звук",
   "music": "Музыка",
@@ -21,11 +17,7 @@
   "qa_engineer": "Тестер",
   "achievement_manager": "Достижение",
   "producer": "Продюсер",
-  "TODO_joke_teller": "Joke Teller",
-  "TODO_based_on_an_idea_from": "Based on an idea from",
   "credits_by": "Титры",
-  "TODO_external_contributors": "External contributors",
-  "TODO_external_contributors_text": "Thanks to all of them for their amazing content !",
   "external_contributors_images": "фотографии:",
   "external_contributors_music": "Музыка / Звук:",
 
@@ -34,15 +26,9 @@
   "no_save": "Сохранения не найдены.",
   "new_game": "Новая игра",
 
-  "TODO_last_played_on": "Last played on %date%",
   "time_played": "Время: %time%",
 
   "leaderboard_error": "Произошла ошибка.",
-  "TODO_leaderboard_my_best_time": "My best time:",
-  "TODO_leaderboard_page_title": "Best sandbox times",
   "leaderboard_time": "Время",
-  "leaderboard_username": "Имя пользователя",
-
-  "TODO_tutorials-merge": "HOW TO: Merge Elements",
-  "TODO_tutorials-spawn": "HOW TO: Spawn Elements"
+  "leaderboard_username": "Имя пользователя"
 }
