@@ -1,0 +1,13 @@
+{
+	"element_discovered": "New Element Discovered: {name}",
+
+	"objective": "Objective",
+
+	"level": "Level",
+	"challenge-won-msg": "You won ! You discovered",
+	"next-challenge": "Next challenge",
+	"back-to-challenge-list": "Back to challenge list",
+	"restart-game": "Restart game",
+	"sandbox-won-title": "You won !",
+	"sandbox-won-msg": "Well played, you finished sandbox mode by discovering every elements !"
+}

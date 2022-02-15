@@ -1,0 +1,48 @@
+{
+  "beta_message": "This game version is a beta development build. It may contains bug and does not reflect final content.",
+  
+  "sandbox": "Sandbox",
+  "challenges": "Challenges",
+  "leaderboard": "Leaderboard",
+  "settings": "Settings",
+  "credits": "Credits",
+  "quit_game": "Quit Game",
+
+  "loading": "Loading ...",
+
+  "find_us_on": "Find us on ...",
+
+  "sound": "Sound",
+  "music": "Music",
+
+  "developer": "Developer",
+  "designer": "Designer",
+  "project_manager": "Project Manager",
+  "qa_engineer": "QA Engineer",
+  "achievement_manager": "Achievement Manager",
+  "producer": "Producer",
+  "joke_teller": "Joke Teller",
+  "based_on_an_idea_from": "Based on an idea from",
+  "credits_by": "Credits by",
+  "external_contributors": "External contributors",
+  "external_contributors_text": "Thanks to all of them for their amazing content !",
+  "external_contributors_images": "Images from:",
+  "external_contributors_music": "Music & sounds from:",
+
+  "back_to_menu": "Back to menu",
+
+  "no_save": "No previous game saved",
+  "new_game": "New game",
+
+  "last_played_on": "Last played on %date%",
+  "time_played": "Time played: %time%",
+
+  "leaderboard_error": "An error happened while fetching leaderboard.",
+  "leaderboard_my_best_time": "My best time:",
+  "leaderboard_page_title": "Best sandbox times",
+  "leaderboard_time": "Time",
+  "leaderboard_username": "Username",
+
+  "tutorials-merge": "HOW TO: Merge Elements",
+  "tutorials-spawn": "HOW TO: Spawn Elements"
+}

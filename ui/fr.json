@@ -1,0 +1,48 @@
+{
+  "beta_message": "Cette version du jeu est une verison beta de développement. Elle peut contenir des bugs et ne reflète pas le jeu final dans son intégralité.",
+
+  "sandbox": "Mode bac à sable",
+  "challenges": "Défis",
+  "leaderboard": "Classement",
+  "settings": "Parametres",
+  "credits": "Crédits",
+  "quit_game": "Quitter",
+
+  "loading": "Chargement en cours ...",
+
+  "find_us_on": "Retrouvez nous sur ...",
+
+  "sound": "Sons",
+  "music": "Musique",
+
+  "developer": "Développeur",
+  "designer": "Graphiste",
+  "project_manager": "Chef de projet",
+  "qa_engineer": "Gestionnaire des tests",
+  "achievement_manager": "Gestionnaire des succès",
+  "producer": "Producteur",
+  "joke_teller": "Blagueur",
+  "based_on_an_idea_from": "Basé sur une idée de",
+  "credits_by": "Crédits par",
+  "external_contributors": "Contributeurs externes",
+  "external_contributors_text": "Merci à eux pour leur fabuleux contenu !",
+  "external_contributors_images": "Images:",
+  "external_contributors_music": "Musiques et sons:",
+
+  "back_to_menu": "Retour au menu",
+
+  "no_save": "Aucune sauvegarde",
+  "new_game": "Nouvelle partie",
+
+  "last_played_on": "Joué pour la dernière fois le %date%",
+  "time_played": "Temps de jeu: %time%",
+
+  "leaderboard_error": "Une erreur inconnue s'est produite lors de la récupération des scores.",
+  "leaderboard_my_best_time": "Mon meilleur temps:",
+  "leaderboard_page_title": "Meilleurs temps en bac à sable",
+  "leaderboard_time": "Temps",
+  "leaderboard_username": "Joueur",
+
+  "tutorials-merge": "Comment fusionner des éléments ?",
+  "tutorials-spawn": "Comment faire apparaitre des éléments ?"
+}

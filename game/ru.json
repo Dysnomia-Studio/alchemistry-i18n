@@ -1,0 +1,13 @@
+{
+	"element_discovered": "Вы обнаружили: {name}",
+
+	"objective": "Цель",
+
+	"level": "Уровень",
+	"challenge-won-msg": "Вы выиграли! Вы обнаружили",
+	"next-challenge": "следующий",
+	"back-to-challenge-list": "Назад",
+	"restart-game": "Перезапустить",
+	"sandbox-won-title": "Вы выиграли!",
+	"TODO_sandbox-won-msg": "Well played, you finished sandbox mode by discovering every elements !"
+}

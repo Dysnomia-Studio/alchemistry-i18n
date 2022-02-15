@@ -1,0 +1,12 @@
+{
+	"languages": {
+		"en": "English",
+		"fr": "Francais",
+		"ru": "Русский"
+	},
+	"files": [
+		"game",
+		"items",
+		"ui"
+	]
+}
