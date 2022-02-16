@@ -30,8 +30,10 @@
 		"zh-TW":"繁體中文"
 	},
 	"files": [
+		"achievements",
 		"game",
 		"items",
+		"store",
 		"ui"
 	]
 }
