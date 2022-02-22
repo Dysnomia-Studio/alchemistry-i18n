@@ -1,5 +1,5 @@
 {
-  "NEW_ACHIEVEMENT_1_0_NAME": "Apprentis en alchmie",
+  "NEW_ACHIEVEMENT_1_0_NAME": "Apprenti en alchmie",
   "NEW_ACHIEVEMENT_1_0_DESC": "Créez votre premier élément en utilisant l'alchimie",
   "NEW_ACHIEVEMENT_1_1_NAME": "Découvrez l'équipe de développement",
   "NEW_ACHIEVEMENT_1_1_DESC": "",
@@ -8,5 +8,7 @@
   "NEW_ACHIEVEMENT_1_3_NAME": "Pale blue dot",
   "NEW_ACHIEVEMENT_1_3_DESC": "That's here. That's home. That's us.",
   "NEW_ACHIEVEMENT_1_4_NAME": "You monster",
-  "NEW_ACHIEVEMENT_1_4_DESC": ""
+  "NEW_ACHIEVEMENT_1_4_DESC": "",
+  "NEW_ACHIEVEMENT_1_5_NAME": "La réponse ultime",
+  "NEW_ACHIEVEMENT_1_5_DESC": "La réponse à la vie, à l'univers et à tout le reste."
 }
