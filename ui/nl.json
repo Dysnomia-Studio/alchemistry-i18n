@@ -1,0 +1,49 @@
+{
+  "beta_message": "This game version is a beta development build. It may contains bug and does not reflect final content.",
+  
+  "sandbox": "Sandbox",
+  "challenges": "Uitdagingen",
+  "leaderboard": "Ranglijst",
+  "settings": "Instellingen",
+  "credits": "Credits",
+  "quit_game": "Afsluiten",
+
+  "loading": "Laden ...",
+
+  "find_us_on": "Vind ons op ...",
+
+  "sound": "Geluid",
+  "music": "Muziek",
+  "settings-translations-link": "Help met vertalingen",
+
+  "developer": "Developer",
+  "designer": "Designer",
+  "project_manager": "Project Manager",
+  "qa_engineer": "QA Engineer",
+  "achievement_manager": "Achievement Manager",
+  "producer": "Producer",
+  "joke_teller": "Moppen verteller",
+  "based_on_an_idea_from": "Gebasseerd op een idee van",
+  "credits_by": "Credits by",
+  "external_contributors": "External contributors",
+  "external_contributors_text": "Dank aan iedereen voor hun mooie content!",
+  "external_contributors_images": "Plaatjes van:",
+  "external_contributors_music": "Muziek en geluiden van:",
+
+  "back_to_menu": "Terug naar het menu",
+
+  "no_save": "Geen opgeslagen spel",
+  "new_game": "Nieuw Spel",
+
+  "last_played_on": "Laatst gespeeld op %date%",
+  "time_played": "Totale speeltijd: %time%",
+
+  "leaderboard_error": "Een fout is ontstaan bij het laden van de ranglijst.",
+  "leaderboard_my_best_time": "Mijn beste tijd:",
+  "leaderboard_page_title": "Mijn beste zandbak tijd",
+  "leaderboard_time": "Tijd",
+  "leaderboard_username": "Gebruikersnaam",
+
+  "tutorials-merge": "HOW TO: Merge Elements",
+  "tutorials-spawn": "HOW TO: Spawn Elements"
+}
