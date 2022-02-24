@@ -1,5 +1,4 @@
 {
-  "beta_message": "This game version is a beta development build. It may contains bug and does not reflect final content.",
   "sandbox": "Sandbox",
   "challenges": "Uitdagingen",
   "leaderboard": "Ranglijst",
@@ -14,7 +13,6 @@
   "developer": "Programmeur",
   "designer": "Designer",
   "project_manager": "Projectmanager",
-  "qa_engineer": "",
   "achievement_manager": "Prestatie Manager",
   "producer": "Producer",
   "joke_teller": "Moppen verteller",
@@ -34,6 +32,4 @@
   "leaderboard_page_title": "Mijn beste zandbak tijd",
   "leaderboard_time": "Tijd",
   "leaderboard_username": "Gebruikersnaam",
-  "tutorials-merge": "",
-  "tutorials-spawn": ""
 }
