@@ -27,3 +27,28 @@ Join our [Official Discord](https://discord.gg/c8aARey), and send your translati
 ### Steam Forum
 
 Participate on the official [Translation Thread on Steam](https://steamcommunity.com/app/1730540/discussions/0/5250637856236335523/)
+
+## Languages without translation yet
+- ar : العربية
+- bg : български език
+- cs : čeština
+- da : Dansk
+- de : Deutsch
+- el : Ελληνικά
+- es : Español
+- fi : Suomi
+- hu : Magyar
+- it : Italiano
+- ja : 日本語
+- ko: 한국어
+- no : Norsk
+- pl : Polski
+- pt-BR : Português-Brasil
+- pt : Português
+- ro : Română
+- th : ไทย
+- tr : Türkçe
+- uk : Українська
+- vi : Tiếng Việt
+- zh-CN : 简体中文
+- zh-TW : 繁體中文
