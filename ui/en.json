@@ -45,5 +45,10 @@
   "leaderboard_username": "Username",
 
   "tutorials-merge": "HOW TO: Merge Elements",
-  "tutorials-spawn": "HOW TO: Spawn Elements"
+  "tutorials-spawn": "HOW TO: Spawn Elements",
+
+  "clear": "Clear board",
+  "delete-tool": "Bulk delete tool",
+  "items-list": "Items list",
+  "reorg": "Reorganize items"
 }

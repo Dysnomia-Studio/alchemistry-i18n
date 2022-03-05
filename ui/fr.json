@@ -45,5 +45,10 @@
   "leaderboard_username": "Joueur",
 
   "tutorials-merge": "Comment fusionner des éléments ?",
-  "tutorials-spawn": "Comment faire apparaitre des éléments ?"
+  "tutorials-spawn": "Comment faire apparaitre des éléments ?",
+
+  "clear": "Nettoyer le plateau",
+  "delete-tool": "Outil de suppression",
+  "items-list": "Liste des éléments",
+  "reorg": "Reorganiser les élements"
 }

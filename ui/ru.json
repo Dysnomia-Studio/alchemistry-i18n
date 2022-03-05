@@ -30,5 +30,7 @@
 
   "leaderboard_error": "Произошла ошибка.",
   "leaderboard_time": "Время",
-  "leaderboard_username": "Имя пользователя"
+  "leaderboard_username": "Имя пользователя",
+  "reorg": "реорганизовать",
+  "clear": "Очистить доску"
 }
