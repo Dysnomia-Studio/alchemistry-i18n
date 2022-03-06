@@ -5,32 +5,40 @@
   "settings": "Настройки",
   "credits": "Титры",
   "quit_game": "Выйти",
-
   "loading": "Загрузка ...",
-
+  "find_us_on": "Найдите нас на ...",
   "sound": "Звук",
   "music": "Музыка",
-
+  "settings-translations-link": "Участвовать в переводах",
   "developer": "Программисты",
   "designer": "Графический дизайнер",
   "project_manager": "Руководитель проекта",
   "qa_engineer": "Тестер",
   "achievement_manager": "Достижение",
   "producer": "Продюсер",
+  "joke_teller": "Рассказчик шуток",
+  "based_on_an_idea_from": "На основе идеи из",
   "credits_by": "Титры",
+  "external_contributors": "Внешние соавторы",
+  "external_contributors_text": "Спасибо всем им за их удивительный контент!",
   "external_contributors_images": "фотографии:",
   "external_contributors_music": "Музыка / Звук:",
-
+  "external_contributors_translations": "Переводы",
+  "special_thanks": "Особая благодарность",
   "back_to_menu": "Назад",
-
   "no_save": "Сохранения не найдены.",
   "new_game": "Новая игра",
-
+  "last_played_on": "Последний раз играла на %date%",
   "time_played": "Время: %time%",
-
   "leaderboard_error": "Произошла ошибка.",
+  "leaderboard_my_best_time": "Мое лучшее время:",
+  "leaderboard_page_title": "Лучшее время в режиме песочницы",
   "leaderboard_time": "Время",
   "leaderboard_username": "Имя пользователя",
-  "reorg": "реорганизовать",
-  "clear": "Очистить доску"
+  "tutorials-merge": "КАК: Объединить элементы",
+  "tutorials-spawn": "КАК: Размножение элементов",
+  "clear": "Очистить доску",
+  "delete-tool": "Удалить",
+  "items-list": "Список предметов",
+  "reorg": "реорганизовать"
 }

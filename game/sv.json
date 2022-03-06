@@ -1,6 +1,11 @@
 {
+  "element_discovered": "Nytt element upptäckt: {name} ",
   "objective": "Mål",
   "level": "Bana",
+  "challenge-won-msg": "Du vann! Du upptäckte ",
+  "next-challenge": "Nästa utmaning",
+  "back-to-challenge-list": "Tillbaka till utmaningslistan ",
   "restart-game": "Nystart spel",
-  "sandbox-won-title": "Du vann!"
+  "sandbox-won-title": "Du vann!",
+  "sandbox-won-msg": "Bra spelat, du avslutade sandlådeläget genom att upptäcka varje element! "
 }

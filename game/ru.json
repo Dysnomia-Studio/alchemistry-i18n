@@ -1,12 +1,11 @@
 {
-	"element_discovered": "Вы обнаружили: {name}",
-
-	"objective": "Цель",
-
-	"level": "Уровень",
-	"challenge-won-msg": "Вы выиграли! Вы обнаружили",
-	"next-challenge": "следующий",
-	"back-to-challenge-list": "Назад",
-	"restart-game": "Перезапустить",
-	"sandbox-won-title": "Вы выиграли!"
+  "element_discovered": "Вы обнаружили: {name}",
+  "objective": "Цель",
+  "level": "Уровень",
+  "challenge-won-msg": "Вы выиграли! Вы обнаружили",
+  "next-challenge": "следующий",
+  "back-to-challenge-list": "Назад",
+  "restart-game": "Перезапустить",
+  "sandbox-won-title": "Вы выиграли!",
+  "sandbox-won-msg": "Хорошо поиграли, вы закончили режим песочницы, открыв все элементы! "
 }

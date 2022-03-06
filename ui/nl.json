@@ -13,6 +13,7 @@
   "developer": "Programmeur",
   "designer": "Ontwerper",
   "project_manager": "Projectmanager",
+  "qa_engineer": "QA Ingenieur",
   "achievement_manager": "Prestatie Manager",
   "producer": "Producer",
   "joke_teller": "Moppen verteller",
@@ -22,6 +23,8 @@
   "external_contributors_text": "Dank aan iedereen voor hun mooie content!",
   "external_contributors_images": "Plaatjes van:",
   "external_contributors_music": "Muziek en geluiden van:",
+  "external_contributors_translations": "Vertalingen",
+  "special_thanks": "Speciale dank",
   "back_to_menu": "Terug naar het menu",
   "no_save": "Geen opgeslagen spel",
   "new_game": "Nieuw Spel",
@@ -32,6 +35,10 @@
   "leaderboard_page_title": "Mijn beste zandbak tijd",
   "leaderboard_time": "Tijd",
   "leaderboard_username": "Gebruikersnaam",
-  "reorg": "Reorganiseer het bord",
-  "clear": "Leeg het bord"
+  "tutorials-merge": "HOE: Elementen samenvoegen",
+  "tutorials-spawn": "HOE: Elementen kuitschieten",
+  "clear": "Leeg het bord",
+  "delete-tool": "Verwijderen",
+  "items-list": "Lijst van items",
+  "reorg": "Reorganiseer het bord"
 }
