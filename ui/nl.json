@@ -40,5 +40,7 @@
   "clear": "Leeg het bord",
   "delete-tool": "Verwijderen",
   "items-list": "Lijst van items",
-  "reorg": "Reorganiseer het bord"
+  "reorg": "Reorganiseer het bord",
+  "selection-mode-dragndrop": "Slepen en neerzetten",
+  "selection-mode-click": "Klikken"
 }

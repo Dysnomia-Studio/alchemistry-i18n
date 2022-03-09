@@ -50,5 +50,8 @@
   "clear": "Nettoyer le plateau",
   "delete-tool": "Outil de suppression",
   "items-list": "Liste des éléments",
-  "reorg": "Reorganiser les élements"
+  "reorg": "Reorganiser les élements",
+
+  "selection-mode-dragndrop": "Glisser-déposer",
+  "selection-mode-click": "Cliquer"
 }

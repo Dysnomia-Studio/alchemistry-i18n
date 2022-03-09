@@ -40,5 +40,7 @@
   "clear": "Очистить доску",
   "delete-tool": "Удалить",
   "items-list": "Список предметов",
-  "reorg": "реорганизовать"
+  "reorg": "реорганизовать",
+  "selection-mode-dragndrop": "Перетаскивание",
+  "selection-mode-click": "Нажмите"
 }

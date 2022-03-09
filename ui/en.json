@@ -50,5 +50,8 @@
   "clear": "Clear board",
   "delete-tool": "Bulk delete tool",
   "items-list": "Items list",
-  "reorg": "Reorganize items"
+  "reorg": "Reorganize items",
+
+  "selection-mode-dragndrop": "Drag and Drop",
+  "selection-mode-click": "Click"
 }

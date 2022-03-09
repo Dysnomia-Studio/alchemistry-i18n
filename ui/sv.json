@@ -40,5 +40,7 @@
   "clear": "Rymma ut spelplan",
   "delete-tool": "Radera",
   "items-list": "Lista över objekt",
-  "reorg": "Omorganisera artikel"
+  "reorg": "Omorganisera artikel",
+  "selection-mode-dragndrop": "Dra och släpp",
+  "selection-mode-click": "Klicka"
 }
