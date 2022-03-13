@@ -1,5 +1,8 @@
 {
-  "title": "[NL] [SPOILER] Receptengids",
-  "description": "(Waarschuwing Spoiler !) Hier is de Alchemistry receptengids",
-  "section-recipes": "Recepten"
+  "recipes_title": "[NL] [SPOILER] Receptengids",
+  "recipes_description": "(Waarschuwing Spoiler !) Hier is de Alchemistry receptengids",
+  "recipes_section-recipes": "Recepten",
+  "items_title": "[NL] [SPOILER] Lijst van items (zonder recepten)",
+  "items_description": "(Waarschuwing Spoiler !) Hier is de Alchemistry lijst van items (zonder recepten)",
+  "items_section-recipes": "Items"
 }

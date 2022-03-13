@@ -1,5 +1,8 @@
 {
-	"title": "[FR] [SPOILER] Guide des recettes",
-	"description": "(Attention Spoiler !) Voici le guide des recettes possibles dans Alchemistry.",
-	"section-recipes": "Recettes"
+  "recipes_title": "[FR] [SPOILER] Guide des recettes",
+  "recipes_description": "(Attention Spoiler !) Voici le guide des recettes possibles dans Alchemistry.",
+  "recipes_section-recipes": "Recettes",
+  "items_title": "[FR] [SPOILER] Liste des élements (sans recettes)",
+  "items_description": "(Attention Spoiler !) Voici le guide des éléments d'Alchemistry sans leurs recettes",
+  "items_section-recipes": "Elements"
 }

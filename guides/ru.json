@@ -1,5 +1,8 @@
 {
-  "title": "[RU] [SPOILER] рецепт гид",
-  "description": "?",
-  "section-recipes": "рецепт"
+  "recipes_title": "[RU] [SPOILER] рецепт гид",
+  "recipes_description": "?",
+  "recipes_section-recipes": "рецепт",
+  "items_title": "[RU] [SPOILER] Список предметов (без рецептов)",
+  "items_description": "?",
+  "items_section-recipes": "Список предметов"
 }
