@@ -1,0 +1,10 @@
+"lang"
+{
+	"Language"	"french"
+	"Tokens"
+	{
+		"#Status_AtMainMenu"	"Dans les menus"
+		"#Status_Challenge"	"Dans le défi n°%challengeId%"
+		"#Status_Sandbox"	"En mode sandbox depuis %time%"
+	}
+}

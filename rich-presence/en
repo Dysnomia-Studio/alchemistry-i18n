@@ -1,0 +1,10 @@
+"lang"
+{
+	"Language"	"english"
+	"Tokens"
+	{
+		"#Status_AtMainMenu"	"At the main menu"
+		"#Status_Challenge"	"Solving challenge %challengeId%"
+		"#Status_Sandbox"	"Sandbox mode for %time%"
+	}
+}
