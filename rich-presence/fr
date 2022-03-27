@@ -5,6 +5,6 @@
 	{
 		"#Status_AtMainMenu"	"Dans les menus"
 		"#Status_Challenge"	"Dans le défi n°%challengeId%"
-		"#Status_Sandbox"	"En mode sandbox depuis %time%"
+		"#Status_Sandbox"	"Bac à sable - %itemsStatus% éléments - %time%"
 	}
 }
