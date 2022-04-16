@@ -43,5 +43,9 @@
   "items-list": "Lista över objekt",
   "reorg": "Omorganisera artikel",
   "selection-mode-dragndrop": "Dra och släpp",
-  "selection-mode-click": "Klicka"
+  "selection-mode-click": "Klicka",
+  "delete-save-title": "Ta bort det sparat spel",
+  "delete-save-message": "Är du säker på att du vill radera det här sparade spelet? Det kommer att gå förlorat för alltid (länge!).",
+  "yes": "Ja",
+  "no": "Nej"
 }

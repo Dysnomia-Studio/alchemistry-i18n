@@ -43,5 +43,9 @@
   "items-list": "Список предметов",
   "reorg": "реорганизовать",
   "selection-mode-dragndrop": "Перетаскивание",
-  "selection-mode-click": "Нажмите"
+  "selection-mode-click": "Нажмите",
+  "delete-save-title": "Удалить сохранение игры",
+  "delete-save-message": "Вы уверены, что хотите удалить это сохранение игры? Оно будет потеряно навсегда (на долгое время!)",
+  "yes": "Да",
+  "no": "Нет"
 }

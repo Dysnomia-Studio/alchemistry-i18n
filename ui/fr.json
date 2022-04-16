@@ -54,5 +54,10 @@
   "reorg": "Reorganiser les élements",
 
   "selection-mode-dragndrop": "Glisser-déposer",
-  "selection-mode-click": "Cliquer"
+  "selection-mode-click": "Cliquer",
+
+  "delete-save-title": "Supprimer la sauvegarde",
+  "delete-save-message": "Voulez-vous vraiment supprimer cette sauvegarde ? Elle sera perdue pour toujours (ce qui est une très longue période !)",
+  "yes": "Oui",
+  "no": "Non"
 }

@@ -43,5 +43,10 @@
   "items-list": "Lijst van items",
   "reorg": "Reorganiseer het bord",
   "selection-mode-dragndrop": "Slepen en neerzetten",
-  "selection-mode-click": "Klikken"
+  "selection-mode-click": "Klikken",
+
+  "delete-save-title": "Spel bewaren wissen",
+  "delete-save-message": "Weet je zeker dat je dit spel bewaren wilt wissen? Het zal voor altijd verloren zijn (een lange tijd !)",
+  "yes": "Ja",
+  "no": "Neen"
 }
