@@ -34,7 +34,6 @@ Participate on the official [Translation Thread on Steam](https://steamcommunity
 - bg : български език
 - cs : čeština
 - da : Dansk
-- de : Deutsch
 - el : Ελληνικά
 - es : Español
 - fi : Suomi
