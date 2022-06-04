@@ -11,6 +11,7 @@ This repo contains translations of Alchemistry, you can find the game on [Steam]
 | Nederlands |  9/18        | 9/9  | 6/6    | 200/200 | 0/3           | 0/3   | 49/49 |
 | Русский    |  9/18        | 9/9  | 4/6    | 200/200 | 0/3           | 0/3   | 49/49 |
 | Svenska    |  0/18        | 9/9  | 4/6    | 200/200 | 0/3           | 0/3   | 49/49 |
+| Deutsch    | 18/18        | 9/9  | 6/6    | 200/200 | 3/3           | 3/3   | 49/49 |
 
 ## How to contribute ?
 
