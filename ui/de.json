@@ -1,0 +1,63 @@
+{
+  "sandbox": "Sandbox",
+  "challenges": "Challenges",
+  "leaderboard": "Bestenliste",
+  "settings": "Einstellungen",
+  "credits": "Mitwirkende",
+  "achievements": "Errungenschaften",
+  "quit_game": "Spiel beenden",
+
+  "loading": "Laden...",
+
+  "find_us_on": "Finde uns auf...",
+
+  "sound": "Geräusche",
+  "music": "Musik",
+  "settings-translations-link": "Hilf mit bei der Übersetzung",
+
+  "developer": "Entwickler",
+  "designer": "Designer",
+  "project_manager": "Projekt Manager",
+  "qa_engineer": "QA Ingenieure",
+  "achievement_manager": "Errungenschaften Manager",
+  "producer": "Produzent",
+  "joke_teller": "Witze Ertähler",
+  "based_on_an_idea_from": "Basierend auf der Idee von",
+  "credits_by": "Abspann von",
+  "external_contributors": "Externe Mitwirkende",
+  "external_contributors_text": "Danke an alle für ihre tollen Inhalte!",
+  "external_contributors_images": "Bilder von:",
+  "external_contributors_music": "Musik & Geräusche von:",
+  "external_contributors_translations": "Übersetzungen von:",
+  "special_thanks": "Besonderer Dank",
+
+  "back_to_menu": "Zurück zum Menü",
+
+  "no_save": "Kein verhandener Spielstand",
+  "new_game": "Neues Spiel",
+
+  "last_played_on": "Zuletzt gespielt am %date%",
+  "time_played": "Spielzeit: %time%",
+
+  "leaderboard_error": "Ein Fehler ist aufgetreten beim Abrufen der Bestenliste.",
+  "leaderboard_my_best_time": "Meine beste Zeit:",
+  "leaderboard_page_title": "Beste Sandbox Zeiten",
+  "leaderboard_time": "Zeit",
+  "leaderboard_username": "Spielername",
+
+  "tutorials-merge": "ERKLÄRUNG: Elemente zusammenfügt",
+  "tutorials-spawn": "ERKLÄRUNG: Elemente einfügt",
+
+  "clear": "Spielfeld leeren",
+  "delete-tool": "Mehrere Elemente löschen",
+  "items-list": "Element Liste",
+  "reorg": "Elemente neu anordnen",
+
+  "selection-mode-dragndrop": "Drag und Drop",
+  "selection-mode-click": "Klick",
+
+  "delete-save-title": "Speicherstand löschen",
+  "delete-save-message": "Bist du sich sicher, dass du diesen Speicherstand löschen möchtest? Er wird dauerhaft gelöscht (Eine lange Zeit!)",
+  "yes": "Ja",
+  "no": "Nein"
+}
