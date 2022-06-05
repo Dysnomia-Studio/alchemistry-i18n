@@ -1,0 +1,10 @@
+"lang"
+{
+	"Language"	"german"
+	"Tokens"
+	{
+		"#Status_AtMainMenu"	"Im Hauptmenü"
+		"#Status_Challenge"	"Löst Challenge %challengeId%"
+		"#Status_Sandbox"	"Sandbox Modus - %itemsStatus% Elemente - %time%"
+	}
+}
