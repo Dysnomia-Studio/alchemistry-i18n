@@ -2,7 +2,7 @@
   "element_discovered": "Вы обнаружили: {name}",
   "objective": "Цель",
   "level": "Уровень",
-  "challenge-won-msg": "Вы выиграли! Вы обнаружили",
+  "challenge-won-msg": "Вы выиграли! Вы обнаружили %item%!",
   "next-challenge": "следующий",
   "back-to-challenge-list": "Назад",
   "restart-game": "Перезапустить",

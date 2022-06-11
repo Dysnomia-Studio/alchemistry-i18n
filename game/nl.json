@@ -2,7 +2,7 @@
   "element_discovered": "Nieuw element ontdekt: {name}",
   "objective": "Doel",
   "level": "Level",
-  "challenge-won-msg": "Je hebt gewonnen ! Je hebt het ontdekt",
+  "challenge-won-msg": "Je hebt gewonnen ! Je hebt het ontdekt %item% !",
 	"next-challenge": "Volgende uitdaging",
 	"back-to-challenge-list": "Terug naar de uitdagingen lijst",
   "restart-game": "Opnieuw opstarten",

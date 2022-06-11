@@ -2,7 +2,7 @@
   "element_discovered": "Nytt element upptäckt: {name} ",
   "objective": "Mål",
   "level": "Bana",
-  "challenge-won-msg": "Du vann! Du upptäckte ",
+  "challenge-won-msg": "Du vann! Du upptäckte %item%!",
   "next-challenge": "Nästa utmaning",
   "back-to-challenge-list": "Tillbaka till utmaningslistan ",
   "restart-game": "Nystart spel",

@@ -4,7 +4,7 @@
 	"objective": "Objectif",
 
 	"level": "Niveau",
-	"challenge-won-msg": "Vous avez gagné en découvrant ",
+	"challenge-won-msg": "Vous avez gagné en découvrant %item% !",
 	"next-challenge": "Défi suivant",
 	"back-to-challenge-list": "Retourner à la liste des défis",
 	"restart-game": "Réessayer",
