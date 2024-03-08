@@ -35,6 +35,7 @@
 
   "no_save": "No previous game saved",
   "new_game": "New game",
+  "new_game_hardcore": "Hardcore mode ? (Hides various hints)",
 
   "last_played_on": "Last played on %date%",
   "time_played": "Time played: %time%",

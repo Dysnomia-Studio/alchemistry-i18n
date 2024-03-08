@@ -35,6 +35,7 @@
 
   "no_save": "Aucune sauvegarde",
   "new_game": "Nouvelle partie",
+  "new_game_hardcore": "Mode difficile ? (Cache les indices)",
 
   "last_played_on": "Joué pour la dernière fois le %date%",
   "time_played": "Temps de jeu: %time%",
