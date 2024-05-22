@@ -3,5 +3,8 @@
   "achievement-item-description-need": "You should create",
   "achievement-item-description-from": "from",
   "achievement-page-title": "Alchemistry - Achievements",
-  "achievement-page-description": "The list of achievements of Alchemistry on Steam."
+  "achievement-page-description": "The list of achievements of Alchemistry on Steam.",
+  "item-page-title": "Alchemistry - Element",
+  "item-page-description": "This page show informations about the element \"%element%\" in Alchemistry.",
+  "item-page-recipes": "Recipes"
 }

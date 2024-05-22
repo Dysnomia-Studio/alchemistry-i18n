@@ -1,5 +1,10 @@
 {
-	"achievement-item-needed": "?",
-	"achievement-item-description-need": "?",
-	"achievement-item-description-from": "?"
+  "achievement-item-needed": "?",
+  "achievement-item-description-need": "?",
+  "achievement-item-description-from": "?",
+  "achievement-page-title": "?",
+  "achievement-page-description": "?",
+  "item-page-title": "?",
+  "item-page-description": "?",
+  "item-page-recipes": "Recept"
 }
