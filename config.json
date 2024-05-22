@@ -35,6 +35,7 @@
 		"guides",
 		"items",
 		"store",
-		"ui"
+		"ui",
+		"wiki"
 	]
 }
