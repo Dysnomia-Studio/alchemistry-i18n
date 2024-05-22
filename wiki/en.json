@@ -1,5 +1,7 @@
 {
-	"achievement-item-needed": "Item needed",
-	"achievement-item-description-need": "You should create",
-	"achievement-item-description-from": "from"
+  "achievement-item-needed": "Item needed",
+  "achievement-item-description-need": "You should create",
+  "achievement-item-description-from": "from",
+  "achievement-page-title": "Alchemistry - Achievements",
+  "achievement-page-description": "The list of achievements of Alchemistry on Steam."
 }
