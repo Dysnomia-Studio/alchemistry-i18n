@@ -2,9 +2,11 @@
   "achievement-item-needed": "Objet(s) requis",
   "achievement-item-description-need": "Vous devez créer l'élément",
   "achievement-item-description-from": "à partir de l'élément",
-  "achievement-page-title": "Alchemistry - Succès",
+  "achievement-page-title": "Succès",
   "achievement-page-description": "La liste des succès d'Alchemistry sur Steam.",
-  "item-page-title": "Alchemistry - Elément",
+  "item-page-title": "Elément",
   "item-page-description": "Cette page affiche les informations à propos de l'element \"%element%\" dans Alchemistry.",
-  "item-page-recipes": "Recettes"
+  "item-page-recipes": "Recettes",
+  "items-page-title": "Eléments",
+  "challenges-page-title": "Défis"
 }
