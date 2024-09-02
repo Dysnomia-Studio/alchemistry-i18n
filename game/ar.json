@@ -1,0 +1,13 @@
+{
+	"element_discovered": "{name} : عنصر جديد تم اكتشافه",
+
+	"objective": "هدف",
+
+	"level": "مستوى",
+	"challenge-won-msg": "! %item% لقد فزت ! إكتشفت",
+	"next-challenge": "التحدّي التالي",
+	"back-to-challenge-list": "العودة إلى قائمة التحديات",
+	"restart-game": "إعادة تشغيل المستوى",
+	"sandbox-won-title": "! لقد فزت",
+	"sandbox-won-msg": "أحسنت ، لقد أكملت وضع الحماية من خلال اكتشاف جميع العناصر"
+}

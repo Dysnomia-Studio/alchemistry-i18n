@@ -1,0 +1,10 @@
+"lang"
+{
+	"Language"	"arabic"
+	"Tokens"
+	{
+		"#Status_AtMainMenu"	"في القائمة الرئيسية"
+		"#Status_Challenge"	"%challengeId% حلّ التحدي"
+		"#Status_Sandbox"	"%time% - العناصر - %itemsStatus% - وضع الحماية"
+	}
+}
