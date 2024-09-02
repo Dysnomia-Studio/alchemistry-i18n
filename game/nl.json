@@ -3,9 +3,9 @@
   "objective": "Doel",
   "level": "Level",
   "challenge-won-msg": "Je hebt gewonnen ! Je hebt het ontdekt %item% !",
-	"next-challenge": "Volgende uitdaging",
-	"back-to-challenge-list": "Terug naar de uitdagingen lijst",
+  "next-challenge": "Volgende uitdaging",
+  "back-to-challenge-list": "Terug naar de uitdagingen lijst",
   "restart-game": "Opnieuw opstarten",
   "sandbox-won-title": "Jij wint !",
-	"sandbox-won-msg": "Goed gespeeld, je hebt in de zandbak modus alle elementen ontdekt !"
+  "sandbox-won-msg": "Goed gespeeld, je hebt in de zandbak modus alle elementen ontdekt !"
 }

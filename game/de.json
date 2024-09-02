@@ -1,13 +1,13 @@
 {
-	"element_discovered": "Neues Element kennengelernt: {name}",
+  "element_discovered": "Neues Element kennengelernt: {name}",
 
-	"objective": "Ziel",
+  "objective": "Ziel",
 
-	"level": "Level",
-	"challenge-won-msg": "Du hast gewonnen! Du hast %item% entdeckt!",
-	"next-challenge": "Nächste challenge",
-	"back-to-challenge-list": "Zurück zur Challenge Liste",
-	"restart-game": "Spiel neustarten",
-	"sandbox-won-title": "Du hast Gewonnen!",
-	"sandbox-won-msg": "Gut gemacht, du hast im Sandbox Modus jedes Element entdeckt!"
+  "level": "Level",
+  "challenge-won-msg": "Du hast gewonnen! Du hast %item% entdeckt!",
+  "next-challenge": "Nächste challenge",
+  "back-to-challenge-list": "Zurück zur Challenge Liste",
+  "restart-game": "Spiel neustarten",
+  "sandbox-won-title": "Du hast Gewonnen!",
+  "sandbox-won-msg": "Gut gemacht, du hast im Sandbox Modus jedes Element entdeckt!"
 }

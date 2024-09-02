@@ -1,13 +1,13 @@
 {
-	"element_discovered": "Nouvel element découvert: {name}",
+  "element_discovered": "Nouvel element découvert: {name}",
 
-	"objective": "Objectif",
+  "objective": "Objectif",
 
-	"level": "Niveau",
-	"challenge-won-msg": "Vous avez gagné en découvrant %item% !",
-	"next-challenge": "Défi suivant",
-	"back-to-challenge-list": "Retourner à la liste des défis",
-	"restart-game": "Réessayer",
-	"sandbox-won-title": "Vous avez gagné !",
-	"sandbox-won-msg": "Bien joué, vous avez terminé le mode bac-à-sable en découvrant tous les éléments !"
+  "level": "Niveau",
+  "challenge-won-msg": "Vous avez gagné en découvrant %item% !",
+  "next-challenge": "Défi suivant",
+  "back-to-challenge-list": "Retourner à la liste des défis",
+  "restart-game": "Réessayer",
+  "sandbox-won-title": "Vous avez gagné !",
+  "sandbox-won-msg": "Bien joué, vous avez terminé le mode bac-à-sable en découvrant tous les éléments !"
 }
