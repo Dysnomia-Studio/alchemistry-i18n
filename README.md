@@ -12,6 +12,7 @@ This repo contains translations of Alchemistry, you can find the game on [Steam]
 | Русский    |  9/20        | 9/9  | 4/6    | 225/225 | 0/3           | 0/3   | 49/50 | 1/7  |
 | Svenska    |  0/20        | 9/9  | 4/6    | 225/225 | 0/3           | 0/3   | 49/50 | 1/7  |
 | Deutsch    | 18/20        | 9/9  | 6/6    | 225/225 | 3/3           | 3/3   | 49/50 | 1/7  |
+| Arabic     | 20/20        | 9/9  | 6/6    | 140/225 | 0/3           | 0/3   |  0/50 | 0/7  |
 
 ## How to contribute ?
 
