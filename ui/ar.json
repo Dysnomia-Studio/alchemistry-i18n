@@ -1,0 +1,64 @@
+{
+    "sandbox": "صندوق رمل",
+    "challenges": "التحديات",
+    "leaderboard": "لوحة المتصدرين",
+    "settings": "الإعدادات",
+    "credits": "الاعتمادات",
+    "achievements": "الإنجازات",
+    "quit_game": "غلق اللعبة",
+  
+    "loading": "جاري التحميل",
+  
+    "find_us_on": "اتصل بنا على",
+  
+    "sound": "الصوت",
+    "music": "الموسيقى",
+    "settings-translations-link": "المشاركة في الترجمات",
+  
+    "developer": "المبرمج",
+    "designer": "المصمم",
+    "project_manager": "مدير المشروع",
+    "qa_engineer": "مهندس ضمان الجودة",
+    "achievement_manager": "مدير الإنجازات",
+    "producer": "المنتج",
+    "joke_teller": "راوي النكات",
+    "based_on_an_idea_from": "بناءً على فكرة من",
+    "credits_by": "ائتمانات من",
+    "external_contributors": "المساهمون الخارجيون",
+    "external_contributors_text": "شكراً لهم جميعاً على محتواهم الرائع",
+    "external_contributors_images": "الصور من",
+    "external_contributors_music": "الموسيقى والأصوات من",
+    "external_contributors_translations": "الترجمات من",
+    "special_thanks": "شكر خاص",
+  
+    "back_to_menu": "العودة إلى القائمة",
+  
+    "no_save": "لم يتم حفظ أي لعبة سابقة",
+    "new_game": "لعبة جديدة",
+    "new_game_hardcore": "الوضع الصعب؟ (يخفي العديد من التلميحات)",
+  
+    "last_played_on": "???????",
+    "time_played": "???????",
+  
+    "leaderboard_error": "حدث خطأ أثناء جلب لوحة المتصدرين.",
+    "leaderboard_my_best_time": "أفضل توقيت",
+    "leaderboard_page_title": "أفضل توقيت في صندوق الرمل",
+    "leaderboard_time": "التوقيت",
+    "leaderboard_username": "اسم المستخدم",
+  
+    "tutorials-merge": "كيفية: دمج العناصر",
+    "tutorials-spawn": "كيفية: إظهار العناصر",
+  
+    "clear": "مسح اللوح",
+    "delete-tool": "أداة الحذف الجماعي",
+    "items-list": "قائمة العناصر",
+    "reorg": "إعادة تنظيم العناصر",
+  
+    "selection-mode-dragndrop": "السحب والإفلات",
+    "selection-mode-click": "نقرة",
+  
+    "delete-save-title": "حذف الحفظ",
+    "delete-save-message": "هل أنت متأكد من أنك تريد حذف هذا الحفظ؟ سيضيع إلى الأبد (وقت طويل!)",
+    "yes": "نعم",
+    "no": "لا"
+  }
