@@ -1,7 +1,7 @@
 {
   "42": "42",
   "air": "هواء",
-  "alchemistry": "كيمياء",
+  "alchemistry": "Alchemistry",
   "algae": "طحالب",
   "alien": "كائن فضائي",
   "animal": "حيوان",
@@ -28,7 +28,7 @@
   "book": "كتاب",
   "box": "صندوق",
   "bread": "خبز",
-  "breaded_fish": "سمك مخبوز",
+  "breaded_fish": "سمك مقلي",
   "brick": "طوب",
   "bucket": "دلو",
   "building": "بناء",
