@@ -37,8 +37,8 @@
     "new_game": "لعبة جديدة",
     "new_game_hardcore": "الوضع الصعب؟ (يخفي العديد من التلميحات)",
   
-    "last_played_on": "???????",
-    "time_played": "???????",
+    "last_played_on": "%date% آخر مرة لعبت فيها",
+    "time_played": "%time% :وقت اللعب",
   
     "leaderboard_error": "حدث خطأ أثناء جلب لوحة المتصدرين.",
     "leaderboard_my_best_time": "أفضل توقيت",
