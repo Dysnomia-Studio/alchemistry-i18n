@@ -29,6 +29,7 @@
   "back_to_menu": "Terug naar het menu",
   "no_save": "Geen opgeslagen spel",
   "new_game": "Nieuw Spel",
+  "new_game_hardcore": "Hardcore modus ? (verbergt verschillende hints)",
   "last_played_on": "Laatst gespeeld op %date%",
   "time_played": "Totale speeltijd: %time%",
   "leaderboard_error": "Een fout is ontstaan bij het laden van de ranglijst.",
@@ -44,7 +45,6 @@
   "reorg": "Reorganiseer het bord",
   "selection-mode-dragndrop": "Slepen en neerzetten",
   "selection-mode-click": "Klikken",
-
   "delete-save-title": "Spel bewaren wissen",
   "delete-save-message": "Weet je zeker dat je dit spel bewaren wilt wissen? Het zal voor altijd verloren zijn (een lange tijd !)",
   "yes": "Ja",

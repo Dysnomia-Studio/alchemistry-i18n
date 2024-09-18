@@ -6,15 +6,11 @@
   "credits": "Mitwirkende",
   "achievements": "Errungenschaften",
   "quit_game": "Spiel beenden",
-
   "loading": "Laden...",
-
   "find_us_on": "Finde uns auf...",
-
   "sound": "Geräusche",
   "music": "Musik",
   "settings-translations-link": "Hilf mit bei der Übersetzung",
-
   "developer": "Entwickler",
   "designer": "Designer",
   "project_manager": "Projekt Manager",
@@ -30,32 +26,25 @@
   "external_contributors_music": "Musik & Geräusche von:",
   "external_contributors_translations": "Übersetzungen von:",
   "special_thanks": "Besonderer Dank",
-
   "back_to_menu": "Zurück zum Menü",
-
   "no_save": "Kein verhandener Spielstand",
   "new_game": "Neues Spiel",
-
+  "new_game_hardcore": "Hardcore-Modus ? (versteckt verschiedene Hinweise)",
   "last_played_on": "Zuletzt gespielt am %date%",
   "time_played": "Spielzeit: %time%",
-
   "leaderboard_error": "Ein Fehler ist aufgetreten beim Abrufen der Bestenliste.",
   "leaderboard_my_best_time": "Meine beste Zeit:",
   "leaderboard_page_title": "Beste Sandbox Zeiten",
   "leaderboard_time": "Zeit",
   "leaderboard_username": "Spielername",
-
   "tutorials-merge": "ERKLÄRUNG: Elemente zusammenfügt",
   "tutorials-spawn": "ERKLÄRUNG: Elemente einfügt",
-
   "clear": "Spielfeld leeren",
   "delete-tool": "Mehrere Elemente löschen",
   "items-list": "Element Liste",
   "reorg": "Elemente neu anordnen",
-
   "selection-mode-dragndrop": "Drag und Drop",
   "selection-mode-click": "Klick",
-
   "delete-save-title": "Speicherstand löschen",
   "delete-save-message": "Bist du sich sicher, dass du diesen Speicherstand löschen möchtest? Er wird dauerhaft gelöscht (Eine lange Zeit!)",
   "yes": "Ja",
