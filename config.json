@@ -1,4 +1,6 @@
 {
+	"title": "Alchemistry",
+	"description": "This repo contains translations of Alchemistry, you can find the game on [Steam](https://store.steampowered.com/app/1730540/Alchemistry/) and [Itch](https://elanis.itch.io/alchemistry).",
 	"languages": {
 		"ar":"العربية",
 		"bg":"български език",
@@ -37,5 +39,6 @@
 		"store",
 		"ui",
 		"wiki"
-	]
+	],
+	"steamTranslationThread": "https://steamcommunity.com/app/1730540/discussions/0/5250637856236335523/"
 }
