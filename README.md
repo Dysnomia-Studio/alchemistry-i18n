@@ -4,27 +4,39 @@ This repo contains translations of Alchemistry, you can find the game on [Steam]
 
 ## Languages translations
 
-| Language   | achievements | game | guides | items   | rich presence | store | ui    | wiki |
-|------------|--------------|------|--------|---------|---------------|-------|-------|------|
-| Arabic     | 20/20        | 9/9  | 6/6    | 225/225 | 3/3           | 2/3   | 50/50 | 7/7  |
-| Deutsch    | 18/20        | 9/9  | 6/6    | 225/225 | 3/3           | 3/3   | 50/50 | 1/7  |
-| English    | 20/20        | 9/9  | 6/6    | 225/225 | 3/3           | 3/3   | 50/50 | 7/7  |
-| Francais   | 20/20        | 9/9  | 6/6    | 225/225 | 3/3           | 3/3   | 50/50 | 7/7  |
-| Nederlands |  9/20        | 9/9  | 6/6    | 225/225 | 0/3           | 0/3   | 50/50 | 1/7  |
-| Русский    |  9/20        | 9/9  | 4/6    | 225/225 | 0/3           | 0/3   | 50/50 | 1/7  |
-| Svenska    |  0/20        | 9/9  | 4/6    | 225/225 | 0/3           | 0/3   | 50/50 | 1/7  |
+ |	Language |	Percentage |	achievements |	game |	guides |	items |	store |	ui |
+ |	--- |	--- |	--- |	--- |	--- |	--- |	--- |	--- |
+ |	العربية |	100% |	36/36 |	9/9 |	6/6 |	250/250 |	3/3 |	50/50 |
+ |	Deutsch |	100% |	36/36 |	9/9 |	6/6 |	250/250 |	3/3 |	50/50 |
+ |	English |	100% |	36/36 |	9/9 |	6/6 |	250/250 |	3/3 |	50/50 |
+ |	Francais |	100% |	36/36 |	9/9 |	6/6 |	250/250 |	3/3 |	50/50 |
+ |	Nederlands |	99% |	36/36 |	9/9 |	6/6 |	250/250 |	0/3 |	50/50 |
+ |	Русский |	99% |	36/36 |	9/9 |	6/6 |	250/250 |	0/3 |	50/50 |
+ |	Svenska |	89% |	0/36 |	9/9 |	6/6 |	250/250 |	0/3 |	50/50 |
+
+
+ |	Language |	Percentage |	wiki |
+ |	--- |	--- |	--- |
+ |	العربية |	100% |	10/10 |
+ |	Deutsch |	100% |	10/10 |
+ |	English |	100% |	10/10 |
+ |	Francais |	100% |	10/10 |
+ |	Nederlands |	99% |	10/10 |
+ |	Русский |	99% |	10/10 |
+ |	Svenska |	89% |	10/10 |
+
 
 ## How to contribute ?
 
 ### Github (Recommended)
 
 - Fork repository
-- Edit files
+- Edit files, you can use [translatool](https://github.com/Dysnomia-studio/translatool) to help you.
 - Create a pull request
 
 ### Discord
 
-Join our [Official Discord](https://discord.gg/c8aARey), and send your translations in **Alchemistry** category, channel **#translations**.
+Join our [Official Discord](https://discord.gg/c8aARey), and send your translations in the **Alchemistry** channel.
 
 ### Steam Forum
 
@@ -40,7 +52,7 @@ Participate on the official [Translation Thread on Steam](https://steamcommunity
 - hu : Magyar
 - it : Italiano
 - ja : 日本語
-- ko: 한국어
+- ko : 한국어
 - no : Norsk
 - pl : Polski
 - pt-BR : Português-Brasil
