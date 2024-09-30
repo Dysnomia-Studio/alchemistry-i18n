@@ -6,15 +6,11 @@
   "credits": "Crédits",
   "achievements": "Succès",
   "quit_game": "Quitter",
-
   "loading": "Chargement en cours ...",
-
   "find_us_on": "Retrouvez nous sur ...",
-
   "sound": "Sons",
   "music": "Musique",
   "settings-translations-link": "Participer aux traductions",
-
   "developer": "Développeur",
   "designer": "Graphiste",
   "project_manager": "Chef de projet",
@@ -30,35 +26,33 @@
   "external_contributors_music": "Musiques et sons:",
   "external_contributors_translations": "Traductions:",
   "special_thanks": "Remerciements particuliers:",
-
   "back_to_menu": "Retour au menu",
-
   "no_save": "Aucune sauvegarde",
   "new_game": "Nouvelle partie",
   "new_game_hardcore": "Mode difficile ? (Cache les indices)",
-
   "last_played_on": "Joué pour la dernière fois le %date%",
   "time_played": "Temps de jeu: %time%",
-
   "leaderboard_error": "Une erreur inconnue s'est produite lors de la récupération des scores.",
   "leaderboard_my_best_time": "Mon meilleur temps:",
   "leaderboard_page_title": "Meilleurs temps en bac à sable",
   "leaderboard_time": "Temps",
   "leaderboard_username": "Joueur",
-
   "tutorials-merge": "Comment fusionner des éléments ?",
   "tutorials-spawn": "Comment faire apparaitre des éléments ?",
-
   "clear": "Nettoyer le plateau",
   "delete-tool": "Outil de suppression",
   "items-list": "Liste des éléments",
   "reorg": "Reorganiser les élements",
-
   "selection-mode-dragndrop": "Glisser-déposer",
   "selection-mode-click": "Cliquer",
-
   "delete-save-title": "Supprimer la sauvegarde",
   "delete-save-message": "Voulez-vous vraiment supprimer cette sauvegarde ? Elle sera perdue pour toujours (ce qui est une très longue période !)",
   "yes": "Oui",
-  "no": "Non"
+  "no": "Non",
+  "wishlist_on_steam": "Ajoutez nous à votre liste de souhaits Steam !",
+  "demo_title": "Demo Version",
+  "demo_txt1": "This game version is a demo of Alchemistry based on a development build. It means there isn't the full content of the game. You will miss some features, many items and challenges.",
+  "demo_txt2": "Thanks for trying out our game, and check out our",
+  "demo_txt3": "Steam page",
+  "demo_txt4": "Have fun !"
 }

@@ -6,15 +6,11 @@
   "credits": "Credits",
   "achievements": "Achievements",
   "quit_game": "Quit Game",
-
   "loading": "Loading ...",
-
   "find_us_on": "Find us on ...",
-
   "sound": "Sound",
   "music": "Music",
   "settings-translations-link": "Participate in translations",
-
   "developer": "Developer",
   "designer": "Designer",
   "project_manager": "Project Manager",
@@ -30,35 +26,33 @@
   "external_contributors_music": "Music & sounds from:",
   "external_contributors_translations": "Translations from",
   "special_thanks": "Special Thanks",
-
   "back_to_menu": "Back to menu",
-
   "no_save": "No previous game saved",
   "new_game": "New game",
   "new_game_hardcore": "Hardcore mode ? (Hides various hints)",
-
   "last_played_on": "Last played on %date%",
   "time_played": "Time played: %time%",
-
   "leaderboard_error": "An error happened while fetching leaderboard.",
   "leaderboard_my_best_time": "My best time:",
   "leaderboard_page_title": "Best sandbox times",
   "leaderboard_time": "Time",
   "leaderboard_username": "Username",
-
   "tutorials-merge": "HOW TO: Merge Elements",
   "tutorials-spawn": "HOW TO: Spawn Elements",
-
   "clear": "Clear board",
   "delete-tool": "Bulk delete tool",
   "items-list": "Items list",
   "reorg": "Reorganize items",
-
   "selection-mode-dragndrop": "Drag and Drop",
   "selection-mode-click": "Click",
-
   "delete-save-title": "Delete save",
   "delete-save-message": "Are you sure you want to delete this save ? It will be lost forever (A long time !)",
   "yes": "Yes",
-  "no": "No"
+  "no": "No",
+  "wishlist_on_steam": "Wishlist on Steam !",
+  "demo_title": "Demo Version",
+  "demo_txt1": "This game version is a demo of Alchemistry based on a development build. It means there isn't the full content of the game. You will miss some features, many items and challenges.",
+  "demo_txt2": "Thanks for trying out our game, and check out our",
+  "demo_txt3": "Steam page",
+  "demo_txt4": "Have fun !"
 }

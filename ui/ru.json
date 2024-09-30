@@ -48,5 +48,11 @@
   "delete-save-title": "Удалить сохранение игры",
   "delete-save-message": "Вы уверены, что хотите удалить это сохранение игры? Оно будет потеряно навсегда (на долгое время!)",
   "yes": "Да",
-  "no": "Нет"
+  "no": "Нет",
+  "wishlist_on_steam": "Wishlist on Steam !",
+  "demo_title": "Demo Version",
+  "demo_txt1": "This game version is a demo of Alchemistry based on a development build. It means there isn't the full content of the game. You will miss some features, many items and challenges.",
+  "demo_txt2": "Thanks for trying out our game, and check out our",
+  "demo_txt3": "Steam page",
+  "demo_txt4": "Have fun !"
 }
