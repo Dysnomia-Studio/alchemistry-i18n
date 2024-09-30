@@ -6,13 +6,13 @@ This repo contains translations of Alchemistry, you can find the game on [Steam]
 
  |	Language |	Percentage |	achievements |	game |	guides |	items |	store |	ui |
  |	--- |	--- |	--- |	--- |	--- |	--- |	--- |	--- |
- |	العربية |	100% |	36/36 |	9/9 |	6/6 |	250/250 |	3/3 |	50/50 |
- |	Deutsch |	97% |	34/36 |	9/9 |	6/6 |	250/250 |	3/3 |	50/50 |
- |	English |	100% |	36/36 |	9/9 |	6/6 |	250/250 |	3/3 |	50/50 |
- |	Francais |	99% |	34/36 |	9/9 |	6/6 |	250/250 |	3/3 |	50/50 |
- |	Nederlands |	93% |	24/36 |	9/9 |	6/6 |	250/250 |	0/3 |	50/50 |
- |	Русский |	93% |	24/36 |	9/9 |	4/6 |	250/250 |	0/3 |	50/50 |
- |	Svenska |	86% |	0/36 |	9/9 |	4/6 |	250/250 |	0/3 |	50/50 |
+ |	العربية |	100% |	36/36 |	9/9 |	6/6 |	250/250 |	3/3 |	56/56 |
+ |	Deutsch |	97% |	34/36 |	9/9 |	6/6 |	250/250 |	3/3 |	56/56 |
+ |	English |	100% |	36/36 |	9/9 |	6/6 |	250/250 |	3/3 |	56/56 |
+ |	Francais |	99% |	34/36 |	9/9 |	6/6 |	250/250 |	3/3 |	56/56 |
+ |	Nederlands |	94% |	24/36 |	9/9 |	6/6 |	250/250 |	0/3 |	56/56 |
+ |	Русский |	93% |	24/36 |	9/9 |	4/6 |	250/250 |	0/3 |	56/56 |
+ |	Svenska |	86% |	0/36 |	9/9 |	4/6 |	250/250 |	0/3 |	56/56 |
 
 
  |	Language |	Percentage |	wiki |
@@ -21,7 +21,7 @@ This repo contains translations of Alchemistry, you can find the game on [Steam]
  |	Deutsch |	97% |	1/10 |
  |	English |	100% |	10/10 |
  |	Francais |	99% |	10/10 |
- |	Nederlands |	93% |	1/10 |
+ |	Nederlands |	94% |	1/10 |
  |	Русский |	93% |	1/10 |
  |	Svenska |	86% |	1/10 |
 
