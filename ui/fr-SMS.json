@@ -1,0 +1,65 @@
+{
+    "sandbox": "Maude baque à sable",
+    "challenges": "Des filles",
+    "leaderboard": "Classe démente",
+    "settings": "Pare à mètres",
+    "credits": "Cré dit",
+    "achievements": "Siksè",
+    "quit_game": "Qui terre",
+  
+    "loading": "Char allemand en cours ...",
+  
+    "find_us_on": "Retrouvé nou sûre ...",
+  
+    "sound": "Sans",
+    "music": "Muse hic",
+    "settings-translations-link": "Pare ticiper au tract ducions",
+  
+    "developer": "Des voleur",
+    "designer": "Grafiste",
+    "project_manager": "Shef de pro jets",
+    "qa_engineer": "Jets ionnaires dés testes",
+    "achievement_manager": "Jets ionnaires dés siksè",
+    "producer": "Prauducteurre",
+    "joke_teller": "Elanis",
+    "based_on_an_idea_from": "Bazé sûre un id de",
+    "credits_by": "Créé dit par",
+    "external_contributors": "Cons tribueurs esqterne",
+    "external_contributors_text": "Mersi à eaux poure leurre fabuleu con tenu !",
+    "external_contributors_images": "Mages:",
+    "external_contributors_music": "Muse hic est sans:",
+    "external_contributors_translations": "Tract ducions:",
+    "special_thanks": "Remerssiements partikuliers:",
+  
+    "back_to_menu": "Retourne aux macdonalds",
+  
+    "no_save": "Au culne sauvegard",
+    "new_game": "La nouvelle est partie",
+    "new_game_hardcore": "Maude est difficile? (Cache les syndics)",
+  
+    "last_played_on": "Jouer pourre la dernier foi le %date%",
+    "time_played": "Tant de jeux: %time%",
+  
+    "leaderboard_error": "Un erreur inkonue s'est survenue Laure de la récupérrassion dés skore.",
+    "leaderboard_my_best_time": "Mon meilleure tant:",
+    "leaderboard_page_title": "Meilleur tant en baque à sable",
+    "leaderboard_time": "Tant",
+    "leaderboard_username": "Joue heure",
+  
+    "tutorials-merge": "Komen fussioner dés mamans ?",
+    "tutorials-spawn": "Komen faire apparaitre des mamans ?",
+  
+    "clear": "Neztoier le platôt",
+    "delete-tool": "Où til de surpression",
+    "items-list": "Litste des mamans",
+    "reorg": "Reorganiser les mamans",
+  
+    "selection-mode-dragndrop": "Glicer-depozer",
+    "selection-mode-click": "Clikez",
+  
+    "delete-save-title": "Supprimmez le macdonalds",
+    "delete-save-message": "Voulaizvous vrément supprimmer ce macdonalds ? Il sera perdue pourre toujours (se ki et une tré longe périod !)",
+    "yes": "Ui",
+    "no": "Nah"
+  }
+  
