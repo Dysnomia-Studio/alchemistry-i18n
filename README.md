@@ -4,26 +4,15 @@ This repo contains translations of Alchemistry, you can find the game on [Steam]
 
 ## Languages translations
 
- |	Language |	Percentage |	achievements |	game |	guides |	items |	store |	ui |
+ |	Language |	Percentage |	achievements |	game |	items |	store |	ui |	wiki |
  |	--- |	--- |	--- |	--- |	--- |	--- |	--- |	--- |
- |	العربية |	100% |	36/36 |	9/9 |	6/6 |	250/250 |	3/3 |	57/57 |
- |	Deutsch |	97% |	34/36 |	9/9 |	6/6 |	250/250 |	3/3 |	57/57 |
- |	English |	100% |	36/36 |	9/9 |	6/6 |	250/250 |	3/3 |	57/57 |
- |	Francais |	99% |	34/36 |	9/9 |	6/6 |	250/250 |	3/3 |	57/57 |
- |	Nederlands |	94% |	24/36 |	9/9 |	6/6 |	250/250 |	0/3 |	57/57 |
- |	Русский |	93% |	24/36 |	9/9 |	4/6 |	250/250 |	0/3 |	57/57 |
- |	Svenska |	87% |	0/36 |	9/9 |	4/6 |	250/250 |	0/3 |	57/57 |
-
-
- |	Language |	Percentage |	wiki |
- |	--- |	--- |	--- |
- |	العربية |	100% |	10/10 |
- |	Deutsch |	97% |	1/10 |
- |	English |	100% |	10/10 |
- |	Francais |	99% |	10/10 |
- |	Nederlands |	94% |	1/10 |
- |	Русский |	93% |	1/10 |
- |	Svenska |	87% |	1/10 |
+ |	العربية |	100% |	36/36 |	9/9 |	250/250 |	3/3 |	57/57 |	10/10 |
+ |	Deutsch |	97% |	34/36 |	9/9 |	250/250 |	3/3 |	57/57 |	1/10 |
+ |	English |	100% |	36/36 |	9/9 |	250/250 |	3/3 |	57/57 |	10/10 |
+ |	Francais |	99% |	34/36 |	9/9 |	250/250 |	3/3 |	57/57 |	10/10 |
+ |	Nederlands |	93% |	24/36 |	9/9 |	250/250 |	0/3 |	57/57 |	1/10 |
+ |	Русский |	93% |	24/36 |	9/9 |	250/250 |	0/3 |	57/57 |	1/10 |
+ |	Svenska |	87% |	0/36 |	9/9 |	250/250 |	0/3 |	57/57 |	1/10 |
 
 
 ## How to contribute ?
