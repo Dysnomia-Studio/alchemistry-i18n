@@ -1,0 +1,10 @@
+"lang"
+{
+	"Language"	"french-SMS"
+	"Tokens"
+	{
+		"#Status_AtMainMenu"	"Dent les meuh nus"
+		 #Status_Challenge"	"Dant les des filles n°%challengeId%"
+		"#Status_Sandbox"	"Baque a sable - %itemsStatus% mamans - %time%"
+	}
+}
