@@ -1,0 +1,10 @@
+"lang"
+{
+	"Language"	"romanian"
+	"Tokens"
+	{
+		"#Status_AtMainMenu"	"În meniul principal"
+		"#Status_Challenge"	"Rezolvând provocarea %challengeId%"
+		"#Status_Sandbox"	"Modul Sandbox - %itemsStatus% elemente - %time%"
+	}
+}

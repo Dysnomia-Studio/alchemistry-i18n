@@ -1,0 +1,13 @@
+{
+	"element_discovered": "Nou Element Descoperit: {name}",
+
+	"objective": "Obiectiv",
+
+	"level": "Nivel",
+	"challenge-won-msg": "Ai câștigat ! Ai descoperit %item% !",
+	"next-challenge": "Următoarea provocare",
+	"back-to-challenge-list": "Înapoi la lista provocărilor",
+	"restart-game": "Reîncearcă",
+	"sandbox-won-title": "Ai câștigat !",
+	"sandbox-won-msg": "Bine jucat, ai terminat modul sandbox descoperind toate elementele !"
+}
