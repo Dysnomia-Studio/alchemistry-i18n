@@ -11,6 +11,7 @@ This repo contains translations of Alchemistry, you can find the game on [Steam]
  |	English |	100% |	40/40 |	9/9 |	265/265 |	4/4 |	57/57 |	10/10 |
  |	Francais |	99% |	37/40 |	9/9 |	265/265 |	4/4 |	57/57 |	10/10 |
  |	Nederlands |	93% |	25/40 |	9/9 |	265/265 |	0/4 |	57/57 |	1/10 |
+ |	Română |	100% |	40/40 |	9/9 |	265/265 |	4/4 |	57/57 |	10/10 |
  |	Русский |	93% |	25/40 |	9/9 |	265/265 |	0/4 |	57/57 |	1/10 |
  |	Svenska |	86% |	0/40 |	9/9 |	265/265 |	0/4 |	57/57 |	1/10 |
 
@@ -46,7 +47,6 @@ Participate on the official [Translation Thread on Steam](https://steamcommunity
 - pl : Polski
 - pt-BR : Português-Brasil
 - pt : Português
-- ro : Română
 - th : ไทย
 - tr : Türkçe
 - uk : Українська
